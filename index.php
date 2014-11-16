@@ -3,6 +3,20 @@
 <head>
   <meta charset="utf-8">
   <title>Paint it Red</title>
+  
+  <style>
+  
+    body {
+      background: #c40000;
+      margin: 0;
+      padding: 0;
+    }
+    
+    h1 {
+      color: #990000;
+    }
+  
+  </style>
 </head>
 <body>
   <main>
