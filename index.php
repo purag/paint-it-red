@@ -4,6 +4,8 @@
   <meta charset="utf-8">
   <title>Paint it Red</title>
   
+  <link href="http://fonts.googleapis.com/css?family=Titillium+Web:400,700,900" rel="stylesheet">
+  
   <style>
   
     body {
@@ -13,6 +15,13 @@
     }
     
     h1 {
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      line-height:180px;
+      font-family: 'Titillium Web', sans-serif;
+      font-size: 14em;
+      font-weight: 900;
       color: #990000;
     }
   
